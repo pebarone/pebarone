@@ -25,3 +25,4 @@ jobs:
           BRANCH_NAME: main
           THEME: tokyonight
           TIME_ZONE: America/Sao_Paulo
+          NAME: Pedro Barone
