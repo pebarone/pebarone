@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pedro Barone 👋</h1>
 <p align="center">
   <b>Software Engineer · OpenText Extended ECM · Automation & Integrations</b><br>
-  São Paulo, Brazil 🇧🇷 · working remotely for global teams
+  São Paulo, Brazil · working remotely for global teams
 </p>
 
 <p align="center">
@@ -12,27 +12,27 @@
 
 ---
 
-### 🧭 About me
+### About me
 I pair **OpenText Content Server / Extended ECM** expertise with software engineering: I build REST APIs, integrations, migration tooling and container deployments, with a product mindset and ownership.
 
-- 💼 **Software Engineer & ECM Data Analyst** at **Dexian · ExxonMobil** (remote, US), since Sep 2025
-- 🤝 Part-time **independent consultant** at **Stratesys**, where I worked as a software engineer from 2021 to 2025
-- 🎓 B.Sc. **Software Engineering** at **FIAP** (2023 – 2026)
-- 🤖 Lately building **AI agent tooling**: CLIs, agent skills and multi-agent workflows
-- 🗣️ Portuguese (native) · English (fluent) · Spanish (advanced)
+- **Software Engineer & ECM Data Analyst** at **Dexian · ExxonMobil** (remote, US), since Sep 2025
+- Part-time **independent consultant** at **Stratesys**, where I worked as a software engineer from 2021 to 2025
+- B.Sc. **Software Engineering** at **FIAP** (2023 – 2026)
+- Lately building **AI agent tooling**: CLIs, agent skills and multi-agent workflows
+- Portuguese (native) · English (fluent) · Spanish (advanced)
 
-### 🚀 Highlights
-- 🗄️ **InfoArchive Toolkit**: full-stack app (Python, JavaScript) that automates legacy data archiving. It sped up decommissioning workflows by **35%** and migrated **22 TB** in 6 months, with recognition from senior management.
-- 🔁 **Content Server migration tool** in TypeScript that carries metadata, retention and audit info between environments while keeping compliance.
-- ⚙️ Dockerfiles, OpenShift and Helm behind a CI/CD pipeline, cutting deployment lead time by **50%**.
-- ✍️ Node.js/Express backend for an **OpenText + Adobe Sign** integration, fully auditable, with persistent OAuth2 for 24/7 continuity.
-- ⚡ Python automation over REST APIs, up to **77%** faster critical tasks, and 25+ SQL reports for PwC and Vale optimized by **62%+**.
+### Highlights
+- **InfoArchive Toolkit**: full-stack app (Python, JavaScript) that automates legacy data archiving. It sped up decommissioning workflows by **35%** and migrated **22 TB** in 6 months, with recognition from senior management.
+- **Content Server migration tool** in TypeScript that carries metadata, retention and audit info between environments while keeping compliance.
+- Dockerfiles, OpenShift and Helm behind a CI/CD pipeline, cutting deployment lead time by **50%**.
+- Node.js/Express backend for an **OpenText + Adobe Sign** integration, fully auditable, with persistent OAuth2 for 24/7 continuity.
+- Python automation over REST APIs, up to **77%** faster critical tasks, and 25+ SQL reports for PwC and Vale optimized by **62%+**.
 
-### 🧪 Side projects
+### Side projects
 - **InfoArchive CLI & agent skill**: lets AI agents operate OpenText InfoArchive and run tasks in parallel.
 - **Multi-harness agent tool**: connects Codex, Claude, Gemini and Grok with persistent sessions, cross-agent delegation and four specialist agents (exploration, backend, frontend, diagnostics).
 
-### 🛠️ Tech stack
+### Tech stack
 <p>
   <img src="https://skillicons.dev/icons?i=python,flask,nodejs,ts,js,react,vue,postgres,docker,kubernetes,aws,gcp,azure,linux,git&perline=15&theme=dark" />
 </p>
@@ -50,8 +50,17 @@ I pair **OpenText Content Server / Extended ECM** expertise with software engine
   <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square">
 </p>
 
-### 📈 GitHub stats
+### GitHub stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pebarone&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pebarone&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
 </p>
+<p align="center">
+  <img height="170" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img height="170" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
+</p>
+<p align="center">
+  <img height="170" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
+  <img height="170" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
+</p>
+
+<sub>Cards are generated daily by a GitHub Actions workflow in this repository.</sub>
